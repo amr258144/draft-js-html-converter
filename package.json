@@ -1,7 +1,7 @@
 {
   "name": "draft-js-html-converter",
   "version": "1.0.0",
-  "description": "A lightweight library for converting between Draft.js rich text format and HTML",
+  "description": "A lightweight, zero-dependency library for converting between Draft.js rich text format and HTML",
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "scripts": {
@@ -15,18 +15,28 @@
     "rich-text",
     "converter",
     "editor",
-    "wysiwyg"
+    "wysiwyg",
+    "zero-dependencies",
+    "typescript",
+    "bidirectional",
+    "npm-package"
   ],
-  "author": "Ammar M",
+  "author": "amr258144",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/amr258144/draft-js-html-converter.git"
+    "url": "git+https://github.com/amr258144/draft-js-html-converter.git"
   },
   "bugs": {
     "url": "https://github.com/amr258144/draft-js-html-converter/issues"
   },
   "homepage": "https://github.com/amr258144/draft-js-html-converter#readme",
+  "files": [
+    "src/",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
   "devDependencies": {
     "jest": "^29.0.0"
   },

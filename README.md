@@ -1,9 +1,9 @@
 # Draft.js HTML Converter
 
-[![npm version](https://badge.fury.io/js/draft-js-html-converter.svg)](https://badge.fury.io/js/draft-js-html-converter)
-[![Build Status](https://github.com/amr258144/draft-js-html-converter/workflows/CI/badge.svg)](https://github.com/amr258144/draft-js-html-converter/actions)
-[![Coverage Status](https://coveralls.io/repos/github/amr258144/draft-js-html-converter/badge.svg?branch=main)](https://coveralls.io/github/amr258144/draft-js-html-converter?branch=main)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![npm version](https://badge.fury.io/js/draft-js-html-converter.svg)](https://www.npmjs.com/package/draft-js-html-converter)
+[![GitHub license](https://img.shields.io/github/license/amr258144/draft-js-html-converter.svg)](https://github.com/amr258144/draft-js-html-converter/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/amr258144/draft-js-html-converter.svg)](https://github.com/amr258144/draft-js-html-converter/issues)
+[![GitHub stars](https://img.shields.io/github/stars/amr258144/draft-js-html-converter.svg)](https://github.com/amr258144/draft-js-html-converter/stargazers)
 
 A lightweight, zero-dependency library for converting between Draft.js rich text format and HTML.
 
