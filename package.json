@@ -1,6 +1,6 @@
 {
   "name": "draft-js-html-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight, zero-dependency library for converting between Draft.js rich text format and HTML",
   "main": "src/index.js",
   "types": "src/index.d.ts",
